@@ -12,15 +12,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 4 Run `ng build --prod` and commit the changes (but do not push) with the default value.
 
-
 5 Run `git reset --hard HEAD^` to neutralise the dist folder modifications previously committed.
 
-
 6 Run `caprover deploy --default` and input your caprover password when your IDE ask it.
-
-
-
-
 
 
 <h4> Technologies used</h4>
